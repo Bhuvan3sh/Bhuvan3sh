@@ -9,19 +9,19 @@
 
 <p align="left"> </p>
 
-- 🌱 I’m currently learning <b>Java and Android Development</b>
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 <b>𝙹𝚊𝚟𝚊 𝚊𝚗𝚍 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</b>
 
-- 💪 My Aim <b>Career in Cyber Security and Ethical Hacking </b>
+- 💪 𝙼𝚢 𝙰𝚒𝚖 <𝚋>𝙲𝚊𝚛𝚎𝚎𝚛 𝚒𝚗 𝙲𝚢𝚋𝚎𝚛 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚊𝚗𝚍 𝙴𝚝𝚑𝚒𝚌𝚊𝚕 𝙷𝚊𝚌𝚔𝚒𝚗𝚐 </𝚋>
 
-- 📝 I write articles on [Blog Spot](https://bhuvan3sh.blogspot.com/2022/12/chai-chat-with-ai.html)
+- 📝 𝙸 𝚠𝚛𝚒𝚝𝚎 𝚊𝚛𝚝𝚒𝚌𝚕𝚎𝚜 𝚘𝚗 <b>[𝙱𝚕𝚘𝚐 𝚂𝚙𝚘𝚝](https://bhuvan3sh.blogspot.com/2022/12/chai-chat-with-ai.html)</b>
 
-- 💬 Ask me about <b>Java and Cyber Security</b>
+- 💬 Ask me about <b>Cyber Security</b>
 
-- 📫 How to reach me **abhuvanesh2030@gmail.com**
+- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **𝚊𝚋𝚑𝚞𝚟𝚊𝚗𝚎𝚜𝚑501@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖**
 
-- 📄 [About me](https://drive.google.com/file/d/1YX1jeHdRmrd1v_w0OYRzlrkkpBkOVtKJ/view?usp=share_link)
+- 📄 [𝙰𝚋𝚘𝚞𝚝 𝚖𝚎](https://drive.google.com/file/d/1YX1jeHdRmrd1v_w0OYRzlrkkpBkOVtKJ/view?usp=share_link)
 
-- ⚡ **It's not a bug, It's a feature**
+- ⚡ **𝙸𝚝'𝚜 𝚗𝚘𝚝 𝚊 𝚋𝚞𝚐, 𝙸𝚝'𝚜 𝚊 𝚏𝚎𝚊𝚝𝚞𝚛𝚎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
