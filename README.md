@@ -8,6 +8,7 @@
 
 
 <p align="left"> </p>
+<br>
 
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 <b>𝙹𝚊𝚟𝚊 𝚊𝚗𝚍 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝</b>
 
@@ -17,7 +18,7 @@
 
 - 💬 Ask me about <b>Cyber Security</b>
 
-- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 **𝚊𝚋𝚑𝚞𝚟𝚊𝚗𝚎𝚜𝚑501@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖**
+- 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 </t>**𝚊𝚋𝚑𝚞𝚟𝚊𝚗𝚎𝚜𝚑501@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖**
 
 - 📄 [𝙰𝚋𝚘𝚞𝚝 𝚖𝚎](https://drive.google.com/file/d/1YX1jeHdRmrd1v_w0OYRzlrkkpBkOVtKJ/view?usp=share_link)
 
