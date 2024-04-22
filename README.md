@@ -5,7 +5,7 @@
 <h1 align="center">⋆⋆ 𝑰'𝒎 𝕭𝖍𝖚𝖛𝖆𝖓𝖊𝖘𝖍 ⋆⋆</h1>
 <h3 align="center">ℂ𝕊𝔼 𝕤𝕥𝕦𝕕𝕖𝕟𝕥 | 𝕋𝕖𝕔𝕙 𝕘𝕖𝕖𝕜 | 𝕁𝕒𝕔𝕜𝕖𝕕 𝔽𝕣𝕖𝕒𝕜</h3>
 <br>
-<img align="right" alt="prism" width="500" src="https://github.com/Bhuvan3sh/Bhuvan3sh/blob/main/GFDjbfFbAAE6sQf.jpg">
+<img align="right" alt="prism" width="500" src="https://github.com/Bhuvan3sh/Bhuvan3sh/blob/main/IMG_20231011_191826.jpg">
 
 <p align="left"> </p>
 
